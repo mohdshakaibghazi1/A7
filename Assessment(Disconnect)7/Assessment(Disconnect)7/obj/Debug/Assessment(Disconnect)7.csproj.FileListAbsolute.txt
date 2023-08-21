@@ -1,0 +1,8 @@
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment7\Assessment(Disconnect)7\Assessment(Disconnect)7\bin\Debug\Assessment(Disconnect)7.exe.config
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment7\Assessment(Disconnect)7\Assessment(Disconnect)7\bin\Debug\Assessment(Disconnect)7.exe
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment7\Assessment(Disconnect)7\Assessment(Disconnect)7\bin\Debug\Assessment(Disconnect)7.pdb
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment7\Assessment(Disconnect)7\Assessment(Disconnect)7\obj\Debug\Assessment(Disconnect)7.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment7\Assessment(Disconnect)7\Assessment(Disconnect)7\obj\Debug\Assessment(Disconnect)7.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment7\Assessment(Disconnect)7\Assessment(Disconnect)7\obj\Debug\Assessment(Disconnect)7.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment7\Assessment(Disconnect)7\Assessment(Disconnect)7\obj\Debug\Assessment(Disconnect)7.exe
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment7\Assessment(Disconnect)7\Assessment(Disconnect)7\obj\Debug\Assessment(Disconnect)7.pdb
